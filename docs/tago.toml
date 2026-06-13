@@ -1,0 +1,10 @@
+title       = "orv"
+baseURL     = "https://openreview-cli.tamnd.com/"
+description = "Browse ML papers on OpenReview"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/openreview-cli"
